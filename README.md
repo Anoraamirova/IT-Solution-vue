@@ -1,4 +1,4 @@
-# hello-world
+# IT-Solution
 
 ## Project setup
 ```
